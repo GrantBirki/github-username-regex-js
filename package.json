@@ -40,7 +40,7 @@
   "devDependencies": {
     "rollup": "^0.41.4",
     "rollup-config-module": "^1.0.0",
-    "eslint": "^8.55.0",
+    "eslint": "^10.2.1",
     "make-coverage-badge": "^1.2.0",
     "prettier": "3.1.0"
   }
