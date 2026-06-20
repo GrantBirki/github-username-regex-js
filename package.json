@@ -38,7 +38,7 @@
     "emu"
   ],
   "devDependencies": {
-    "rollup": "^0.41.4",
+    "rollup": "^3.29.5",
     "rollup-config-module": "^1.0.0",
     "eslint": "^8.55.0",
     "make-coverage-badge": "^1.2.0",
